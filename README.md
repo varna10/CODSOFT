@@ -16,7 +16,7 @@ Text preprocessing (tokenization, stopword removal, stemming)
 Feature extraction using TF-IDF or word embeddings
 Classification using Naive Bayes, Logistic Regression, or SVM
 Model evaluation using accuracy, precision, recall, and F1-score
-📌 Dataset: Movie plot summaries from publicly available sources. '/kaggle/input/genre-classification-dataset-imdb/Genre Classification Dataset/train_data'
+📌 Dataset: Movie plot summaries from publicly available sources.https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
 
 📌 Usage:
 Run movie_genre_classification.py to train and test the model.
